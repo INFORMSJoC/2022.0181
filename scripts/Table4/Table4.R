@@ -36,6 +36,27 @@ file_path_PE_secure <- paste(path_result, file_name_PE_secure, sep = "")
 PE_secure = data.table::fread(file_path_PE_secure)
 PE_secure = PE_secure[91:180,]
 
+# GAT
+GAT_re = read.csv("GAT_results_Eu_50.csv")
+Re_mat_GAT = matrix(nrow = 6, ncol = 2)
+Re_mat_GAT[,1] = c(2,4,8,16,32,64)
+i = 1
+for(dim in c(2,4,8,16,32,64)){
+  Re_mat_GAT[i ,2] = mean(GAT_re[which(GAT_re[,2] == dim),3])
+  i = i+1
+}
+round(min(Re_mat_GAT[,2]),3)
+
+# GCN
+gnn_re = read.csv("gnn_results_Eu_50.csv")
+Re_mat_GCN = matrix(nrow = 5, ncol = 2)
+Re_mat_GCN[,1] = c(2,4,8,16,32)
+i = 1
+for(dim in c(2,4,8,16,32)){
+  Re_mat_GCN[i ,2] = mean(gnn_re[which(gnn_re[,2] == dim),3])
+  i = i+1
+}
+round(min(Re_mat_GCN[,2]),3)
 
 round(apply(PE_rop, 2, mean),3)
 round(apply(PE_ropr, 2, mean),3)
@@ -44,8 +65,8 @@ round(apply(PE_rrr, 2, mean),3)
 round(apply(PE_sss, 2, mean),3)
 round(apply(PE_rcgl, 2, mean),3)
 round(apply(PE_secure, 2, mean),3)
-
-
+round(min(Re_mat_GCN[,2]),3)
+round(min(Re_mat_GAT[,2]),3)
 ### read tables  time
 
 file_name_time_rop <- paste("time_rop.txt", sep = "_")

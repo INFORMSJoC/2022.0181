@@ -34,6 +34,26 @@ file_name_PE_secure <- paste("PE_secure.txt", sep = "_")
 file_path_PE_secure <- paste(path_result, file_name_PE_secure, sep = "")
 PE_secure = data.table::fread(file_path_PE_secure) 
 
+# GCN
+gnn_re = read.csv("gnn_results_gene_10_linear_unscaled.csv")
+Re_mat_GCN = matrix(nrow = 6, ncol = 2)
+Re_mat_GCN[,1] = c(4,6,8,16,32,64)
+i = 1
+for(dim in c(4,6,8,16,32,64)){
+  Re_mat_GCN[i ,2] = mean(gnn_re[which(gnn_re[,2] == dim),3])
+  i = i+1
+}
+
+# GAT
+GAT_re = read.csv("GAT_results_gene_10.csv")
+Re_mat_GAT = matrix(nrow = 6, ncol = 2)
+Re_mat_GAT[,1] = c(4,6,8,16,32,64)
+i = 1
+for(dim in c(4,6,8,16,32,64)){
+  Re_mat_GAT[i ,2] = mean(GAT_re[which(GAT_re[,2] == dim),3])
+  i = i+1
+}
+
 
 round(apply(PE_rop, 2, mean),3) 
 round(apply(PE_ropr, 2, mean),3) 
@@ -42,4 +62,5 @@ round(apply(PE_rrr, 2, mean),3)
 round(apply(PE_sss, 2, mean),3)
 round(apply(PE_rcgl, 2, mean),3)
 round(apply(PE_secure, 2, mean),3)
-
+round(min(Re_mat_GCN[,2]),3)
+round(min(Re_mat_GAT[,2]),3)
