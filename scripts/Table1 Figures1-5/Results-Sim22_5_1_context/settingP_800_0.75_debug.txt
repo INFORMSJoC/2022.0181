@@ -1,0 +1,100 @@
+107 	196 	178 	187 	160 	116 	143 	134 	152 	125 	169 	done	 169 
+170 	done	 152 
+153 	done	 125 
+126 	done	 107 
+108 	done	 196 
+197 	done	 187 
+188 	done	 134 
+135 	done	 160 
+161 	done	 178 
+179 	101 	done	 116 
+117 	done	 143 
+144 	done	 170 
+171 	done	 126 
+127 	done	 153 
+154 	done	 108 
+109 	done	 197 
+198 	done	 188 
+189 	done	 117 
+118 	done	 135 
+136 	done	 101 
+102 	done	 161 
+162 	done	 144 
+145 	done	 179 
+180 	done	 171 
+172 	done	 127 
+128 	done	 109 
+110 	done	 154 
+155 	done	 198 
+199 	done	 118 
+119 	done	 136 
+137 	done	 189 
+190 	done	 162 
+163 	done	 102 
+103 	done	 145 
+146 	done	 180 
+181 	done	 172 
+173 	done	 128 
+129 	done	 155 
+156 	done	 110 
+111 	done	 173 
+174 	done	 129 
+130 	done	 199 
+200 	done	 137 
+138 	done	 190 
+191 	done	 119 
+120 	done	 111 
+112 	done	 156 
+157 	done	 181 
+182 	done	 103 
+104 	done	 163 
+164 	done	 146 
+147 	done	 130 
+131 	done	 174 
+175 	done	 157 
+158 	done	 112 
+113 	done	 200 
+done	 131 
+132 	done	 120 
+121 	done	 191 
+192 	done	 104 
+105 	done	 138 
+139 	done	 182 
+183 	done	 164 
+165 	done	 147 
+148 	done	 175 
+176 	done	 132 
+133 	done	 158 
+159 	done	 113 
+114 	done	 176 
+177 	done	 133 
+done	 192 
+193 	done	 105 
+106 	done	 183 
+184 	done	 121 
+122 	done	 139 
+140 	done	 165 
+166 	done	 148 
+149 	done	 159 
+done	 114 
+115 	done	 177 
+done	 184 
+185 	done	 193 
+194 	done	 140 
+141 	done	 122 
+123 	done	 106 
+done	 115 
+done	 166 
+167 	done	 149 
+150 	done	 185 
+186 	done	 141 
+142 	done	 123 
+124 	done	 194 
+195 	done	 167 
+168 	done	 150 
+151 	done	 186 
+done	 124 
+done	 195 
+done	 142 
+done	 151 
+done	 168 

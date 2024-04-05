@@ -1,0 +1,100 @@
+578 	548 	586 	563 	518 	533 	502 	594 	571 	556 	540 	510 	525 	done	 578 
+579 	done	 594 
+595 	done	 586 
+587 	done	 563 
+564 	done	 510 
+511 	done	 548 
+549 	done	 533 
+534 	done	 571 
+572 	done	 518 
+519 	done	 525 
+526 	done	 556 
+557 	done	 502 
+503 	done	 540 
+541 	done	 579 
+580 	done	 595 
+596 	done	 534 
+535 	done	 564 
+565 	done	 572 
+573 	done	 587 
+588 	done	 511 
+512 	done	 549 
+550 	done	 519 
+520 	done	 541 
+542 	done	 526 
+527 	done	 503 
+504 	done	 557 
+558 	done	 580 
+581 	done	 596 
+597 	done	 565 
+566 	done	 535 
+536 	done	 588 
+589 	done	 581 
+582 	done	 573 
+574 	done	 527 
+528 	done	 550 
+551 	done	 512 
+513 	done	 504 
+505 	done	 520 
+521 	done	 542 
+543 	done	 558 
+559 	done	 536 
+537 	done	 597 
+598 	done	 582 
+583 	done	 589 
+590 	done	 566 
+567 	done	 574 
+575 	done	 513 
+514 	done	 505 
+506 	done	 521 
+522 	done	 551 
+552 	done	 543 
+544 	done	 528 
+529 	done	 559 
+560 	done	 537 
+538 	done	 598 
+599 	done	 590 
+591 	done	 583 
+584 	done	 575 
+576 	done	 567 
+568 	done	 522 
+523 	done	 506 
+507 	done	 529 
+530 	done	 514 
+515 	done	 552 
+553 	done	 544 
+545 	done	 560 
+561 	501 	done	 538 
+539 	done	 584 
+585 	done	 591 
+592 	done	 599 
+600 	done	 576 
+577 	done	 523 
+524 	done	 530 
+531 	done	 507 
+508 	done	 553 
+554 	done	 568 
+569 	done	 515 
+516 	done	 539 
+done	 561 
+562 	done	 545 
+546 	done	 501 
+done	 600 
+done	 577 
+done	 554 
+555 	done	 592 
+593 	done	 585 
+done	 531 
+532 	done	 569 
+570 	done	 524 
+done	 562 
+done	 508 
+509 	done	 516 
+517 	done	 555 
+done	 546 
+547 	done	 593 
+done	 517 
+done	 532 
+done	 570 
+done	 509 
+done	 547 

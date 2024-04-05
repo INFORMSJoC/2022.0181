@@ -1,0 +1,66 @@
+rm(list = ls())
+setwd("d:/Downloads/2022.0181/scripts/Table2 Figure6")
+######### To produce Table 2
+path_result <- "Results-Sim23_7_5_Arabidopsis/"
+### read tables  PE 
+file_name_PE_rop <- paste("PE_rop.txt", sep = "_")
+file_path_PE_rop <- paste(path_result, file_name_PE_rop, sep = "")
+PE_rop = data.table::fread(file_path_PE_rop)
+
+
+file_name_PE_ropr <- paste("PE_ropr.txt", sep = "_")
+file_path_PE_ropr <- paste(path_result, file_name_PE_ropr, sep = "")
+PE_ropr = data.table::fread(file_path_PE_ropr)
+
+
+file_name_PE_r4 <- paste("PE_r4.txt", sep = "_")
+file_path_PE_r4 <- paste(path_result, file_name_PE_r4, sep = "")
+PE_r4 = data.table::fread(file_path_PE_r4)
+
+
+file_name_PE_rrr <- paste("PE_rrr3.txt", sep = "_")
+file_path_PE_rrr <- paste(path_result, file_name_PE_rrr, sep = "")
+PE_rrr = data.table::fread(file_path_PE_rrr)
+
+file_name_PE_sss <- paste("PE_sss.txt", sep = "_")
+file_path_PE_sss <- paste(path_result, file_name_PE_sss, sep = "")
+PE_sss = data.table::fread(file_path_PE_sss)
+
+file_name_PE_rcgl <- paste("PE_rcgl.txt", sep = "_")
+file_path_PE_rcgl <- paste(path_result, file_name_PE_rcgl, sep = "")
+PE_rcgl = data.table::fread(file_path_PE_rcgl)
+
+file_name_PE_secure <- paste("PE_secure.txt", sep = "_")
+file_path_PE_secure <- paste(path_result, file_name_PE_secure, sep = "")
+PE_secure = data.table::fread(file_path_PE_secure) 
+
+# GCN
+gnn_re = read.csv("gnn_results_gene_10_linear_unscaled.csv")
+Re_mat_GCN = matrix(nrow = 6, ncol = 2)
+Re_mat_GCN[,1] = c(4,6,8,16,32,64)
+i = 1
+for(dim in c(4,6,8,16,32,64)){
+  Re_mat_GCN[i ,2] = mean(gnn_re[which(gnn_re[,2] == dim),3])
+  i = i+1
+}
+
+# GAT
+GAT_re = read.csv("GAT_results_gene_10.csv")
+Re_mat_GAT = matrix(nrow = 6, ncol = 2)
+Re_mat_GAT[,1] = c(4,6,8,16,32,64)
+i = 1
+for(dim in c(4,6,8,16,32,64)){
+  Re_mat_GAT[i ,2] = mean(GAT_re[which(GAT_re[,2] == dim),3])
+  i = i+1
+}
+
+
+round(apply(PE_rop, 2, mean),3) 
+round(apply(PE_ropr, 2, mean),3) 
+round(apply(PE_r4, 2, mean)  ,3)
+round(apply(PE_rrr, 2, mean),3)
+round(apply(PE_sss, 2, mean),3)
+round(apply(PE_rcgl, 2, mean),3)
+round(apply(PE_secure, 2, mean),3)
+round(min(Re_mat_GCN[,2]),3)
+round(min(Re_mat_GAT[,2]),3)

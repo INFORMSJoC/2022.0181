@@ -1,0 +1,200 @@
+198 	90 	21 	47 	9 	4 	6 	102 	24 	64 	183 	54 	11 	130 	19 	120 	135 	122 	100 	1 	125 	32 	34 	193 	57 	170 	117 	143 	37 	82 	148 	128 	145 	191 	29 	196 	49 	181 	14 	155 	80 	175 	153 	74 	42 	16 	62 	92 	77 	168 	52 	97 	27 	95 	178186  		173 	87 	158 	85 	160 	115 	44 	67 	105163  		59 	39 	133 	69 	140 	188 	112 	165 	107 	110 	138 	150 	72 	done	 128 
+129 	done	 72 
+73 	done	 16 
+17 	done	 196 
+197 	done	 90 
+91 	done	 178 
+179 	done	 107 
+108 	done	 133 
+134 	done	 85 
+86 	done	 1 
+2 	done	 120 
+121 	done	 59 
+60 	done	 143 
+144 	done	 163 
+164 	done	 105 
+106 	done	 4 
+5 	done	 160 
+161 	done	 42 
+43 	done	 188 
+189 	done	 181 
+182 	done	 158 
+159 	done	 47 
+48 	done	 29 
+30 	done	 95 
+96 	done	 62 
+63 	done	 175 
+176 	done	 67 
+68 	done	 173 
+174 	done	 77 
+78 	done	 19 
+20 	done	 74 
+75 	done	 198 
+199 	done	 54 
+55 	done	 97 
+98 	done	 37 
+38 	done	 193 
+194 	done	 140 
+141 	done	 49 
+50 	done	 168 
+169 	done	 148 
+149 	done	 11 
+12 	done	 32 
+33 	done	 14 
+15 	done	 57 
+58 	done	 80 
+81 	done	 27 
+28 	done	 117 
+118 	done	 112 
+113 	done	 52 
+53 	done	 145 
+146 	done	 165 
+166 	done	 39 
+40 	done	 186 
+187 	done	 6 
+7 	done	 21 
+22 	done	 125 
+126 	done	 122 
+123 	done	 69 
+70 	done	 150 
+151 	done	 155 
+156 	done	 100 
+101 	done	 183 
+184 	done	 34 
+35 	done	 102 
+103 	done	 130 
+131 	done	 64 
+65 	done	 24 
+25 	done	 138 
+139 	done	 87 
+88 	done	 170 
+171 	done	 82 
+83 	done	 115 
+116 	done	 191 
+192 	done	 9 
+10 	done	 135 
+136 	done	 92 
+93 	done	 153 
+154 	done	 44 
+45 	done	 110 
+111 	done	 73 
+done	 129 
+done	 2 
+3 	done	 134 
+done	 159 
+done	 86 
+done	 179 
+180 	done	 60 
+61 	done	 68 
+done	 176 
+177 	done	 161 
+162 	done	 197 
+done	 58 
+done	 63 
+done	 98 
+99 	done	 5 
+done	 28 
+done	 78 
+79 	done	 43 
+done	 182 
+done	 199 
+200 	done	 96 
+done	 106 
+done	 91 
+done	 144 
+done	 20 
+done	 113 
+114 	done	 169 
+done	 141 
+142 	done	 123 
+124 	done	 189 
+190 	done	 12 
+13 	done	 33 
+done	 48 
+done	 103 
+104 	done	 151 
+152 	done	 15 
+done	 38 
+done	 174 
+done	 131 
+132 	done	 40 
+41 	done	 53 
+done	 75 
+76 	done	 17 
+18 	done	 171 
+172 	done	 81 
+done	 184 
+185 	done	 55 
+56 	done	 121 
+done	 50 
+51 	done	 108 
+109 	done	 156 
+157 	done	 187 
+done	 30 
+31 	done	 25 
+26 	done	 194 
+195 	done	 146 
+147 	done	 83 
+84 	done	 93 
+94 	done	 166 
+167 	done	 35 
+36 	done	 118 
+119 	done	 88 
+89 	done	 65 
+66 	done	 136 
+137 	done	 139 
+done	 116 
+done	 164 
+done	 126 
+127 	done	 149 
+done	 70 
+71 	done	 101 
+done	 10 
+done	 22 
+23 	done	 192 
+done	 7 
+8 	done	 154 
+done	 111 
+done	 45 
+46 	done	 177 
+done	 13 
+done	 114 
+done	 99 
+done	 104 
+done	 172 
+done	 180 
+done	 152 
+done	 119 
+done	 109 
+done	 200 
+done	 162 
+done	 66 
+done	 36 
+done	 142 
+done	 190 
+done	 56 
+done	 61 
+done	 41 
+done	 132 
+done	 185 
+done	 127 
+done	 26 
+done	 23 
+done	 167 
+done	 137 
+done	 18 
+done	 84 
+done	 195 
+done	 3 
+done	 76 
+done	 94 
+done	 31 
+done	 157 
+done	 8 
+done	 124 
+done	 51 
+done	 79 
+done	 147 
+done	 89 
+done	 46 
+done	 71 

@@ -6,4 +6,4 @@
 - Rplot_snr2.pdf: Figure 5
 
 ## Plot for realdata
-- Rlot_raldata.pdf: Figure 6
+- Rlot_realdata.pdf: Figure 6

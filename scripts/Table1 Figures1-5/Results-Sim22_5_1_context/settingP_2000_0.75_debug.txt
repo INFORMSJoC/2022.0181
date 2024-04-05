@@ -1,0 +1,100 @@
+613 	666 	683 	675 	692 	621 	639 	630 	604 	648 	657 	done	 621 
+622 	done	 683 
+684 	done	 692 
+693 	done	 613 
+614 	done	 657 
+658 	done	 666 
+667 	done	 604 
+605 	done	 639 
+640 	done	 630 
+631 	done	 675 
+676 	done	 648 
+649 	done	 622 
+623 	done	 684 
+685 	done	 614 
+615 	done	 658 
+659 	done	 693 
+694 	done	 667 
+668 	done	 623 
+624 	done	 685 
+686 	done	 659 
+660 	done	 615 
+616 	done	 694 
+695 	done	 631 
+632 	done	 649 
+650 	done	 640 
+641 	done	 676 
+677 	done	 605 
+606 	done	 624 
+625 	done	 686 
+687 	done	 660 
+661 	done	 616 
+617 	done	 695 
+696 	done	 668 
+669 	done	 632 
+633 	done	 650 
+651 	done	 641 
+642 	done	 677 
+678 	done	 625 
+626 	done	 687 
+688 	done	 606 
+607 	done	 661 
+662 	done	 617 
+618 	done	 696 
+697 	done	 626 
+627 	done	 688 
+689 	done	 662 
+663 	done	 618 
+619 	done	 697 
+698 	done	 669 
+670 	done	 633 
+634 	done	 651 
+652 	done	 678 
+679 	done	 642 
+643 	done	 607 
+608 	done	 627 
+628 	done	 689 
+690 	done	 663 
+664 	done	 619 
+620 	done	 698 
+699 	601 	done	 670 
+671 	done	 634 
+635 	done	 652 
+653 	done	 679 
+680 	done	 643 
+644 	done	 608 
+609 	done	 628 
+629 	done	 690 
+691 	done	 664 
+665 	done	 620 
+done	 699 
+700 	done	 601 
+602 	done	 671 
+672 	done	 629 
+done	 635 
+636 	done	 691 
+done	 653 
+654 	done	 665 
+done	 680 
+681 	done	 700 
+done	 644 
+645 	done	 609 
+610 	done	 602 
+603 	done	 672 
+673 	done	 654 
+655 	done	 645 
+646 	done	 636 
+637 	done	 681 
+682 	done	 610 
+611 	done	 603 
+done	 673 
+674 	done	 637 
+638 	done	 646 
+647 	done	 655 
+656 	done	 682 
+done	 611 
+612 	done	 674 
+done	 638 
+done	 647 
+done	 656 
+done	 612 
