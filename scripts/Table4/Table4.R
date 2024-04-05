@@ -1,3 +1,5 @@
+rm(list = ls())
+setwd("d:/Downloads/2022.0181/scripts/Table4")
 ## For table 4
 ################## Original
 path_result <- "Results-Sim22_12_15_rollingwindow/"
