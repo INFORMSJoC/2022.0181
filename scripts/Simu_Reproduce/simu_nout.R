@@ -4,7 +4,7 @@
 ############ simulatipn 
 
 rm(list = ls())
-setwd("~/scripts/Simu_Reproduce")
+setwd("d:/Downloads/2022.0181/scripts/Simu_Reproduce")
 # load package
 library(purrr) # for cross3
 library(ncvreg) # for Mest computing
