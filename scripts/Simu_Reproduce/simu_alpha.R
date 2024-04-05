@@ -123,12 +123,12 @@ cal_loss_once <- function(ii)
   cat(ii, "\t", file = file_path_debug, append = TRUE)
   
   # library or source some useful packages and funcitons
-  source("RS1.R")
+  source("d:/Downloads/2022.0181/src/RS1.R")
   library("rrpack")
-  source("setup_secure.R")
-  source("r4.1.R")  # r4 something wrong with its original code
-  source("RCGL.R")
-  source("secure.R")
+  source("d:/Downloads/2022.0181/src/setup_secure.R")
+  source("d:/Downloads/2022.0181/src/r4.1.R")  # r4 something wrong with its original code
+  source("d:/Downloads/2022.0181/src/RCGL.R")
+  source("d:/Downloads/2022.0181/src/secure.R")
   
   # import data
   seed = 2022+ii

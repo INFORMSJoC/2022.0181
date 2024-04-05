@@ -3,7 +3,7 @@ RS2 = function(Y,X,rfix,outlier = TRUE,thres = NULL,alpha)
   # new model
   n = nrow(Y)
   #r2 = qr(X)$rank
-  if (outlier){#??????outlier??????XI??
+  if (outlier){ 
     X1 = X
     X = cbind(X1, diag(n)) # ????X=(XI)
   }
@@ -15,9 +15,9 @@ RS2 = function(Y,X,rfix,outlier = TRUE,thres = NULL,alpha)
   rmax = rfix
   
   Q = svd(Y,nu = rmax, nv= rmax) 
-  Z = Q$u  # Y??????????��????Z=XU?е?Z
+  Z = Q$u   
   S = diag(Q$d [1:rmax]) 
-  V = Q$v # Y??????????��
+  V = Q$v  
   
   if(rmax ==1 )
   { ## r_star =1
