@@ -32,7 +32,13 @@ This project contains four folders: `data`, `results`, `src`, `scripts`.
 - `scripts`: include codes to directly replicate the experiments in the paper.
 
 ## Replicating
-To get the Figures and Tables in the paper, please run the codes in the scripts folder. For example, in `scripts/Table1 Figures1-5`,
+To get the Figures and Tables in the paper, please run the codes in the scripts folder. 
+- `scripts/Table1 Figures1-5`: to get Table 1 and Figures 1-5 of the paper
+- `scripts/Table2 Figure6`: to get Table 2 and Figure 6 of the paper
+- `scripts/Table3`: to get Table 3 of the paper
+- `scripts/Table4`: to get Table 4 of the paper
+
+Specifically, for example, in `scripts/Table1 Figures1-5`,
 - Figure1.R: run Figure1.R in this file to get Figure 1 of the paper
 - Figure2.R: run Figure2.R in this file to get Figure 2 of the paper
 - Figure3.R: run Figure3.R in this file to get Figure 3 of the paper
@@ -42,3 +48,6 @@ To get the Figures and Tables in the paper, please run the codes in the scripts 
   
 
 See the README.md file in each folder for a detailed description.
+
+## Ongoing Development
+This code is being developed on an on-going basis at the author's [Github site](https://github.com/zeminzhe/2022.0181).
