@@ -1,7 +1,7 @@
 ################# Figure 6 
 # 
 rm(list = ls())
-
+setwd("d:/Downloads/2022.0181/scripts/Table2 Figure6")
 # load package
 library(purrr) # for cross3
 library(ncvreg) # for Mest computing
@@ -9,8 +9,8 @@ library(snowfall) # parallel programming
 library(quadprog)
 library(parallel)
 
-X <- read.csv("file1used.csv")
-Y <- read.csv("file2used.csv")
+X <- read.csv("d:/Downloads/2022.0181/data/file1used.csv")
+Y <- read.csv("d:/Downloads/2022.0181/data/file2used.csv")
 
 index = which(Y$Pathwayname %in% c("Plastoquinonebiosynthesis",
                                    "Phytosterolbiosynthesis",
@@ -24,7 +24,7 @@ n=nrow(Yused);q=ncol(Yused);p=ncol(Xused)
  
  
 # ROP
-source("RS2.R") #??????5
+source("RS2.R") 
 start1 = Sys.time()
 re1 = RS2(Yused,Xused,rmax = NULL,r = 5,outlier = TRUE)
 stop1 = Sys.time()
@@ -46,7 +46,7 @@ rank.est2 = re2$rank
 
  
 
-# refit????????on Y1
+# refit 
 SVDY = svd(Y1,nu=3,nv=3)
 factors = SVDY$u
 values = SVDY$d[1:3]

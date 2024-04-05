@@ -1,3 +1,5 @@
+rm(list = ls())
+setwd("d:/Downloads/2022.0181/scripts/Table2 Figure6")
 ######### To produce Table 2
 path_result <- "Results-Sim23_7_5_Arabidopsis/"
 ### read tables  PE 

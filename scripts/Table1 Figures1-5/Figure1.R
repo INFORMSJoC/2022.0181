@@ -1,3 +1,5 @@
+rm(list = ls())
+setwd("d:/Downloads/2022.0181/scripts/Table1 Figures1-5")
 ##  Figure 1
 path_result <- "Results-Sim22_5_1_context/"
 # read results
