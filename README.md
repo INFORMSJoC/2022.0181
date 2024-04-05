@@ -32,7 +32,7 @@ This project contains four folders: `data`, `results`, `src`, `scripts`.
 - `scripts`: include codes to directly replicate the experiments in the paper.
 
 ## Replicating
-To get the Figures and Tables in the paper, please run the codes in the scripts folder. For example, in `scripts/Table1 Figures1-5',
+To get the Figures and Tables in the paper, please run the codes in the scripts folder. For example, in `scripts/Table1 Figures1-5`,
 - Figure1.R: run Figure1.R in this file to get Figure 1 of the paper
 - Figure2.R: run Figure2.R in this file to get Figure 2 of the paper
 - Figure3.R: run Figure3.R in this file to get Figure 3 of the paper
