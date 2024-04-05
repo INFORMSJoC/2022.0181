@@ -1,0 +1,100 @@
+417 	471 	444 	435 	453 	480 	426 	462 	409 	488 	497 	401 	done	 426 
+427 	done	 417 
+418 	done	 462 
+463 	done	 488 
+489 	done	 409 
+410 	done	 435 
+436 	done	 453 
+454 	done	 444 
+445 	done	 471 
+472 	done	 497 
+498 	done	 480 
+481 	done	 418 
+419 	done	 427 
+428 	done	 463 
+464 	done	 401 
+402 	done	 489 
+490 	done	 472 
+473 	done	 445 
+446 	done	 436 
+437 	done	 454 
+455 	done	 410 
+411 	done	 419 
+420 	done	 481 
+482 	done	 498 
+499 	done	 428 
+429 	done	 464 
+465 	done	 402 
+403 	done	 420 
+421 	done	 429 
+430 	done	 465 
+466 	done	 446 
+447 	done	 455 
+456 	done	 490 
+491 	done	 437 
+438 	done	 411 
+412 	done	 473 
+474 	done	 499 
+500 	done	 421 
+422 	done	 482 
+483 	done	 430 
+431 	done	 466 
+467 	done	 422 
+423 	done	 431 
+432 	done	 467 
+468 	done	 403 
+404 	done	 447 
+448 	done	 456 
+457 	done	 491 
+492 	done	 474 
+475 	done	 412 
+413 	done	 500 
+done	 438 
+439 	done	 423 
+424 	done	 468 
+469 	done	 432 
+433 	done	 483 
+484 	done	 457 
+458 	done	 448 
+449 	done	 424 
+425 	done	 404 
+405 	done	 475 
+476 	done	 469 
+470 	done	 433 
+434 	done	 492 
+493 	done	 439 
+440 	done	 484 
+485 	done	 413 
+414 	done	 425 
+done	 470 
+done	 434 
+done	 458 
+459 	done	 405 
+406 	done	 449 
+450 	done	 476 
+477 	done	 493 
+494 	done	 440 
+441 	done	 485 
+486 	done	 414 
+415 	done	 459 
+460 	done	 406 
+407 	done	 450 
+451 	done	 477 
+478 	done	 494 
+495 	done	 441 
+442 	done	 486 
+487 	done	 415 
+416 	done	 460 
+461 	done	 451 
+452 	done	 407 
+408 	done	 478 
+479 	done	 495 
+496 	done	 442 
+443 	done	 487 
+done	 416 
+done	 461 
+done	 452 
+done	 408 
+done	 479 
+done	 496 
+done	 443 

@@ -1,0 +1,100 @@
+74 	24 	1 	9 	4 	3 	35 	20 	19 	18 	32 	21 	33 	23 	43 	49 	44 	42 	48 	11 	5 	62 	45 	40 	14 	70 	6 	29 	55 	13 	10 	8 	57 	50 	30 	52 	28 	37 	38 	34 	59 	39 	15 	64 	47 	65 	16 	2560  		73 	54 	68 	58 	72 	27 	67 	63 	69 	53 	81 	83 	82 	75 	78 	77 	79 	91 	98 	92 	87 	84 	97 	94 	86 	96 	89 	88 	93 	99 	done	 89 
+90 	done	 62 
+done	 60 
+61 	done	 11 
+12 	done	 18 
+done	 86 
+done	 29 
+done	 10 
+done	 28 
+done	 25 
+26 	done	 57 
+done	 4 
+done	 27 
+done	 6 
+7 	done	 23 
+done	 32 
+done	 72 
+done	 34 
+done	 99 
+100 	done	 3 
+done	 59 
+done	 24 
+done	 75 
+76 	done	 92 
+done	 35 
+36 	done	 74 
+done	 73 
+done	 64 
+done	 91 
+done	 52 
+done	 13 
+done	 30 
+31 	done	 98 
+done	 78 
+done	 69 
+done	 16 
+17 	done	 47 
+done	 9 
+done	 43 
+done	 48 
+done	 93 
+done	 39 
+done	 5 
+done	 68 
+done	 88 
+done	 54 
+done	 94 
+95 	done	 37 
+done	 19 
+done	 82 
+done	 53 
+done	 87 
+done	 63 
+done	 40 
+41 	done	 15 
+done	 45 
+46 	done	 21 
+22 	done	 49 
+done	 55 
+56 	done	 70 
+71 	done	 67 
+done	 65 
+66 	done	 84 
+85 	done	 83 
+done	 77 
+done	 42 
+done	 38 
+done	 58 
+done	 44 
+done	 50 
+51 	done	 1 
+2 	done	 97 
+done	 79 
+80 	done	 14 
+done	 8 
+done	 81 
+done	 33 
+done	 20 
+done	 96 
+done	 61 
+done	 90 
+done	 26 
+done	 7 
+done	 12 
+done	 100 
+done	 76 
+done	 31 
+done	 36 
+done	 95 
+done	 17 
+done	 71 
+done	 41 
+done	 46 
+done	 85 
+done	 51 
+done	 22 
+done	 56 
+done	 80 
+done	 2 
+done	 66 
